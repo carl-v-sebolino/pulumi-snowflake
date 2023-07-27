@@ -1,0 +1,9 @@
+config:
+  snowflake:account: ba94010
+  snowflake:password:
+    secure: AAABAAwpuxhr9uB+ILeF1of3PddDV7Zepbp9WrosweTBNLHq7pEygCG9h7+BeA==
+  snowflake:region: southeast-asia.azure
+  snowflake:username:
+    admin
+
+    # https://ba94010.southeast-asia.azure.snowflakecomputing.com

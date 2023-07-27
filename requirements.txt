@@ -1,0 +1,13 @@
+Arpeggio==2.0.2
+attrs==23.1.0
+autopep8==2.0.2
+dill==0.3.7
+grpcio==1.56.0
+parver==0.4
+protobuf==4.23.4
+pulumi==3.76.0
+pulumi-snowflake==0.30.2
+pycodestyle==2.10.0
+PyYAML==6.0.1
+semver==2.13.0
+six==1.16.0
